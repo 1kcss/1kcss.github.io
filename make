@@ -1,0 +1,1 @@
+yui-compressor 1k.css -o 1k.min.css
